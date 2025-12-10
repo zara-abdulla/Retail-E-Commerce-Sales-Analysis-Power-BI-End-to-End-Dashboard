@@ -5,6 +5,8 @@
 This project presents a comprehensive Retail (E-Commerce) Sales Analysis built in Power BI.
 The dashboard integrates multiple datasets — customers, products, orders, order details, and returns — to evaluate overall business performance, sales efficiency, customer behavior, product trends, and return patterns.
 
+### [📁 View the Power BI File](files/retail_sales_project.pbix)
+
 ## 📊 Dataset Description
 
 ![](files/data_model.png)

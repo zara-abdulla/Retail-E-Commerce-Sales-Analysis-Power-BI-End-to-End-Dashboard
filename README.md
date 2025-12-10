@@ -1,4 +1,5 @@
 # Retail E-Commerce Sales Analysis — Power BI End-to-End Dashboard
+![](files/sales_images.jpg)
 ## 📝 Project Overview
 
 This project presents a comprehensive Retail (E-Commerce) Sales Analysis built in Power BI.

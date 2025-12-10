@@ -65,7 +65,6 @@ The dashboard integrates multiple datasets — customers, products, orders, orde
 ### **1. Sales Overview**
 ![](files/img1.png)
 
-
 - Total Sales: 2.48M AZN
 
 - Sales After Discounts: 2.46M AZN

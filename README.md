@@ -62,8 +62,9 @@ The dashboard integrates multiple datasets — customers, products, orders, orde
 | reason      | Reason for return   |
 
 ## 📈 Key Insights
-![](files/img1.png)
 ### **1. Sales Overview**
+![](files/img1.png)
+
 
 - Total Sales: 2.48M AZN
 

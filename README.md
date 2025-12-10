@@ -6,7 +6,7 @@ This project presents a comprehensive Retail (E-Commerce) Sales Analysis built i
 The dashboard integrates multiple datasets — customers, products, orders, order details, and returns — to evaluate overall business performance, sales efficiency, customer behavior, product trends, and return patterns.
 
 ## 📊 Dataset Description
-# 📊 Dataset Description
+
 ![](files/data_model.png)
 ## 1. CUSTOMERS
 | Column             | Description            |

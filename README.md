@@ -7,7 +7,7 @@ The dashboard integrates multiple datasets — customers, products, orders, orde
 
 ## 📊 Dataset Description
 # 📊 Dataset Description
-
+![](files/data_model.png)
 ## 1. CUSTOMERS
 | Column             | Description            |
 |--------------------|------------------------|
@@ -62,6 +62,7 @@ The dashboard integrates multiple datasets — customers, products, orders, orde
 | reason      | Reason for return   |
 
 ## 📈 Key Insights
+![](files/img1.png)
 ### **1. Sales Overview**
 
 - Total Sales: 2.48M AZN
@@ -118,6 +119,7 @@ The dashboard integrates multiple datasets — customers, products, orders, orde
 **Highest:** 2022 — 639K
 
 ### 2. Customer Insights
+![](files/img2.png)
 
 - Total customers: 200
 
@@ -148,6 +150,7 @@ The dashboard integrates multiple datasets — customers, products, orders, orde
 Customer 125 → 7 orders, 58,306 AZN spent
 
 ### 3. Returns & Performance
+![](files/img3.png)
 
 - Total Returns: 100
 
